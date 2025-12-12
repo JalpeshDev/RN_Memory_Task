@@ -3,6 +3,8 @@
 A simple, elegant React Native (Expo) application that allows users to create, store, and view personal memories, including photos, titles, and descriptions.
 This project uses Supabase for backend database, authentication, and storage.
 
+## loom video link : https://www.loom.com/share/9ad84c21a4744bc88a33af4cba77f6d8
+
 ## 🚀 Features
 
 - Create a memory with image, title, and description
